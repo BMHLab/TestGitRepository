@@ -1,1 +1,3 @@
-I am loving Ben's workshop on git
+I am hating Ben's workshop on git
+New line
+My code is obviously inaccurate there Ben
